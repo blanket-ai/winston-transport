@@ -33,10 +33,12 @@
     "triple-beam": "^1.2.0"
   },
   "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
     "@types/node": "^10.1.4",
     "abstract-winston-transport": ">= 0.3.0",
     "assume": "^2.0.1",
-    "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "eslint-config-populist": "^4.1.0",
     "logform": "^1.4.0",
