@@ -32,6 +32,3 @@ node_modules
 
 # idea project settings
 .idea
-
-# pre-compiled directory
-dist
